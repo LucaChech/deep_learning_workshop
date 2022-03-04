@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/../coursera_tensorflow/.idea/coursera_tensorflow.iml" filepath="$PROJECT_DIR$/../coursera_tensorflow/.idea/coursera_tensorflow.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/deep_learning_workshop.iml" filepath="$PROJECT_DIR$/.idea/deep_learning_workshop.iml" />
     </modules>
   </component>
